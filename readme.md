@@ -2,6 +2,6 @@ SLIDER only on JS.
 
 
 
-Html, CSS, JS. Only needed 4 example files.
+Slider. Only JS, and HTML+CSS for current examle
 
 V1: swipes does not work. I`ll fix it in the future
